@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use CPTCoder, please cite the paper below."
+type: software
+title: "CPTCoder"
+authors:
+  - family-names: "Wang"
+    given-names: "Benlu"
+  - family-names: "Shangguan"
+    given-names: "Ziyao"
+  - family-names: "Tegtmeyer"
+    given-names: "Kyle"
+  - family-names: "Zhang"
+    given-names: "Zhenyu"
+  - family-names: "Chheang"
+    given-names: "Sophie"
+  - family-names: "Cohan"
+    given-names: "Arman"
+repository-code: "https://github.com/benluwang/CPTCoder"
+preferred-citation:
+  type: conference-paper
+  title: "CPTCoder: A Reliable LLM System for Medical Procedure Code Prediction"
+  collection-title: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)"
+  year: 2026
+  doi: "10.18653/v1/2026.acl-demo.60"
+  url: "https://aclanthology.org/2026.acl-demo.60/"
+  authors:
+    - family-names: "Wang"
+      given-names: "Benlu"
+    - family-names: "Shangguan"
+      given-names: "Ziyao"
+    - family-names: "Tegtmeyer"
+      given-names: "Kyle"
+    - family-names: "Zhang"
+      given-names: "Zhenyu"
+    - family-names: "Chheang"
+      given-names: "Sophie"
+    - family-names: "Cohan"
+      given-names: "Arman"

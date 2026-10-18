@@ -3,3 +3,32 @@
 Project page and code repository for **CPTCoder: A Reliable LLM System for Medical Procedure Code Prediction**, an ACL 2026 Demo paper.
 
 The project homepage is available through GitHub Pages once Pages is enabled for this repository.
+
+**Paper:** [ACL Anthology](https://aclanthology.org/2026.acl-demo.60/) · [Author copy](https://benluwang.github.io/papers/cptcoder/) · [BibTeX](https://benluwang.github.io/papers/cptcoder/citation.bib)
+
+## Citation
+
+If you use CPTCoder, please cite the paper:
+
+```bibtex
+@inproceedings{wang-etal-2026-cptcoder,
+    title = "{CPTC}oder: A Reliable {LLM} System for Medical Procedure Code Prediction",
+    author = "Wang, Benlu  and
+      Shangguan, Ziyao  and
+      Tegtmeyer, Kyle  and
+      Zhang, Zhenyu  and
+      Chheang, Sophie  and
+      Cohan, Arman",
+    editor = "Durrett, Greg  and
+      Jian, Ping",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 3: System Demonstrations)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-demo.60/",
+    doi = "10.18653/v1/2026.acl-demo.60",
+    pages = "605--614",
+    ISBN = "979-8-89176-392-0"
+}
+```
